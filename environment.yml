@@ -1,0 +1,21 @@
+name: vts
+
+channels:
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - tqdm
+  - scikit-learn
+  - matplotlib
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-lightning
+  - tensorboard
+  - mnist

@@ -1,0 +1,3 @@
+[submodule "GP-VAE"]
+	path = GP-VAE
+	url = git@github.com:christqoh/GP-VAE.git
